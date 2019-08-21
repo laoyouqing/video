@@ -32,11 +32,11 @@ class DetailSerializer(serializers.ModelSerializer):
 
 
 
-
 class IndexGoodsBannerSerializer1(serializers.ModelSerializer):
+    '''视频图片'''
     create_time = serializers.DateTimeField(read_only=True, format="%Y-%m-%d %H:%M:%S")
     update_time = serializers.DateTimeField(read_only=True, format="%Y-%m-%d %H:%M:%S")
-    '''视频图片'''
+
     class Meta:
         model = IndexGoodsBanner
         fields = '__all__'
