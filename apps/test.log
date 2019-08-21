@@ -1,0 +1,109 @@
+
+
+2019-07-23 17:14:13 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873253&total_amount=110000&sign=e4c859fd5dd26cfb8fcf128e9663ed39
+
+2019-07-23 17:14:13 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:13 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873253&total_amount=110000&sign=e4c859fd5dd26cfb8fcf128e9663ed39
+
+2019-07-23 17:14:13 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:13 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873253&total_amount=110000&sign=e4c859fd5dd26cfb8fcf128e9663ed39
+
+2019-07-23 17:14:13 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:13 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873253&total_amount=110000&sign=e4c859fd5dd26cfb8fcf128e9663ed39
+
+2019-07-23 17:14:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:14 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873254&total_amount=110000&sign=d53de8c1ff17efa585c7a13f5987d1f7
+
+2019-07-23 17:14:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:14 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873254&total_amount=110000&sign=d53de8c1ff17efa585c7a13f5987d1f7
+
+2019-07-23 17:14:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:14 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873254&total_amount=110000&sign=d53de8c1ff17efa585c7a13f5987d1f7
+
+2019-07-23 17:14:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:14 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873254&total_amount=110000&sign=d53de8c1ff17efa585c7a13f5987d1f7
+
+2019-07-23 17:14:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:15 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873255&total_amount=110000&sign=7e79fc5f349ee47b12f5dac66c9d2434
+
+2019-07-23 17:14:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:15 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873255&total_amount=110000&sign=7e79fc5f349ee47b12f5dac66c9d2434
+
+2019-07-23 17:14:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:15 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873255&total_amount=110000&sign=7e79fc5f349ee47b12f5dac66c9d2434
+
+2019-07-23 17:14:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:15 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873255&total_amount=110000&sign=7e79fc5f349ee47b12f5dac66c9d2434
+
+2019-07-23 17:14:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:15 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873255&total_amount=110000&sign=7e79fc5f349ee47b12f5dac66c9d2434
+
+2019-07-23 17:14:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:16 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873256&total_amount=110000&sign=c0aa5fc29580e7fe9c9acb255982753a
+
+2019-07-23 17:14:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:16 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873256&total_amount=110000&sign=c0aa5fc29580e7fe9c9acb255982753a
+
+2019-07-23 17:14:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:16 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873256&total_amount=110000&sign=c0aa5fc29580e7fe9c9acb255982753a
+
+2019-07-23 17:14:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:16 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873256&total_amount=110000&sign=c0aa5fc29580e7fe9c9acb255982753a
+
+2019-07-23 17:14:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:16 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873256&total_amount=110000&sign=c0aa5fc29580e7fe9c9acb255982753a
+
+2019-07-23 17:14:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:17 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873257&total_amount=110000&sign=342c99d4082824309899a92db25d72a1
+
+2019-07-23 17:14:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:17 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873257&total_amount=110000&sign=342c99d4082824309899a92db25d72a1
+
+2019-07-23 17:14:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:17 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873257&total_amount=110000&sign=342c99d4082824309899a92db25d72a1
+
+2019-07-23 17:14:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:14:17 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563873257&total_amount=110000&sign=342c99d4082824309899a92db25d72a1
+
+2019-07-23 17:14:18 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:48:38 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563875318&total_amount=110000&sign=5ca64cbe8cab0f72ff3c19abbd036328
+
+2019-07-23 17:48:41 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:48:41 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563875321&total_amount=110000&sign=2ff0ee9358ff18ecad38e526696ff552
+
+2019-07-23 17:48:42 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:48:42 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563875322&total_amount=110000&sign=90f8ca871e64c797225a28259c247db5
+
+2019-07-23 17:48:42 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:48:42 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563875322&total_amount=110000&sign=90f8ca871e64c797225a28259c247db5
+
+2019-07-23 17:48:42 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-23 17:48:42 支付接口 发送字符串: body=201907161405038&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8000/order/pay_suc/&openid=onKAd6NhPITUOf8MjGadXw_Yokyo&out_trade_no=201907161405038&paymentType=rz_wx_wap&quit_url=http://xiaowujiang.ie1e.com/cart.html&return_url=http://xiaowujiang.ie1e.com/u_order.html&rzAppId=20190723165240959379&signType=MD5&subject=test1&timeStamp=1563875322&total_amount=110000&sign=90f8ca871e64c797225a28259c247db5
+
+2019-07-23 17:48:43 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
