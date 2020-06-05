@@ -5,7 +5,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 cssselect==1.0.3
 cssutils==1.0.2
-Django==2.1.1
+Django==2.2.13
 django-cors-headers==3.0.2
 django-filter==2.1.0
 django-htmlmin==0.9.1
